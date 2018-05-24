@@ -1,0 +1,41 @@
+
+body{
+	color: green;
+	font-family:Vedana, Geneva, Arial, Arial black, Helvetica;
+	font-weight: normal;
+}
+
+h1, h2{
+	background-color: purple;
+}
+
+h1{
+	color:pink;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+.one{
+	color:blue;
+	font-size:25px;
+	
+}
+
+p.two{
+	color:yellow;
+	font-size:25px;
+	
+}
+
+h3{
+	border-bottom: 1px solid black;
+	border-top: 1px solid green;
+}
+
+h4{
+	border: 2px solid blue
+}
+
+
